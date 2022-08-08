@@ -5,6 +5,8 @@ date: "2022-07-20"
 ---
 # This capstone project is for the Google Data Analytics course.
 
+# =============================================
+
 # BACKGROUND
 
 Cyclistic is a bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike. 
@@ -18,6 +20,7 @@ As a junior data analyst working in the marketing analyst team at Cyclistic, a b
 
 3. Cyclistic executive team.
 
+# =============================================
 
 # STEP 1: ASK?
 
@@ -29,7 +32,7 @@ Business Task:
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
 
-# ===================================================
+# =============================================
 
 # STEP 2: PREPARE DATA
 
@@ -41,7 +44,7 @@ The company has provided me with monthly data for the last 12 months, which I do
 The data is found to have consistent structure across all the 12 months, albeit with some data missing.The names of starting stations and ending stations for some months are missing, as the company wasn't collecting those data as of then. So we will rely on the coordinates for the starting staions and ending stations instead.
 
 
-# ===================================================
+# =============================================
 
 # STEP 3: PROCESS
 
@@ -64,22 +67,22 @@ Now using R, I will...
 ## CLEAN DATA AND FORMAT READY FOR ANALYSIS
 
 
-# ===================================================
+# =============================================
 
 # STEP 4: ANALYZE DATA BY RUNNING ANALYTICAL QUERIES
 
 ## Run exploratory analysis to find trends, patterns and insights to understand data more.
 
-# ===================================================
+# =============================================
 
 # STEP 5: SHARE INSIGTHS AND VISUALS TO HIGLIGHT TRENDS AND RELATIONSHIPS
 
 ## Visualize data to easily identify trends and relationships
 
-# ===================================================
+# =============================================
 
 ## STEP 6: ACT
 
 ## Read the powerpoint presenation attached for recommended acts.
 
-# ===================================================
+# =============================================
