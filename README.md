@@ -52,37 +52,37 @@ I started the process of data cleaning and processing in Excel, where I calculat
 
 Now using R, I will...
 
-## CREATE A SINGLE DATA FRAME
+Create a single data-frame by joining all the files (12) into a single file
 
-### Check list of column names and number of columns
+Check list of column names and number of columns
 
-### Inspect Data by checking for consistency in each data column
+Inspect Data by checking for consistency in each data column
 
-### Join individual data frames into one single data frame
+Join individual data frames into one single data frame
 
-### Check list of column names and number of columns
+Check list of column names and number of columns
 
-### Inspect Data by checking for consistency in each data column
+Inspect Data by checking for consistency in each data column
 
-## CLEAN DATA AND FORMAT READY FOR ANALYSIS
+Clean data and get it ready for analysis
 
 
 # =============================================
 
 # STEP 4: ANALYZE DATA BY RUNNING ANALYTICAL QUERIES
 
-## Run exploratory analysis to find trends, patterns and insights to understand data more.
+Run exploratory analysis to find trends, patterns and insights to understand data more.
 
 # =============================================
 
 # STEP 5: SHARE INSIGTHS AND VISUALS TO HIGLIGHT TRENDS AND RELATIONSHIPS
 
-## Visualize data to easily identify trends and relationships
+Visualize data to easily identify trends and relationships
 
 # =============================================
 
-## STEP 6: ACT
+# STEP 6: ACT
 
-## Read the powerpoint presenation attached for recommended acts.
+Read the powerpoint presenation attached for recommended acts.
 
 # =============================================
