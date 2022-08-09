@@ -87,11 +87,4 @@ Read the powerpoint presenation attached for recommended acts.
 Note: Visuals on Powerpoint were created using Micorsoft PowerBI.
 
 
-[Cyclistic Bike Data (Case Study Presentation).pptx](https://github.com/sirjoka/Google-Data-Analysis-Case-Study-Cyclistic-Bike-/files/9294343/Cyclistic.Bike.Data.Case.Study.Presentation.pptx)
-
-[Cyclistic Bike Data Code.zip](https://github.com/sirjoka/Google-Data-Analysis-Case-Study-Cyclistic-Bike-/files/9294360/Cyclistic.Bike.Data.Code.zip)
-
-
-
-
 # =============================================
